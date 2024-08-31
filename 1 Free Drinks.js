@@ -15,3 +15,4 @@ else{
     var totalPrice = burger + coke;
     console.log("total price = ", totalPrice);
 }
+
